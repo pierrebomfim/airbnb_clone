@@ -86,7 +86,7 @@ def counts_type(data):
     return data["name"].count()
 
 # App Layout
-#data = load_data()
+data = load_data()
 
 # sidebar
 with st.sidebar:
