@@ -13,7 +13,7 @@ streamlit run https://github.com/pierrebomfim/airbnb-clone/blob/master/airbnb_cl
 
 ## Run this on cloud
 
-[Click here](https://pierrebomfim-airbnb-clone-airbnb-clone-fk6mxf.streamlit.app/) to visualize in you browser
+[Click here](https://pierrebomfim-airbnb-clone-airbnb-clone-qbxaog.streamlit.app/) to visualize in you browser
 
 ### Questions? Comments?
 
